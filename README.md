@@ -1,3 +1,24 @@
+<h1> Project Title: Books Books Books! </h1>
+Team Members: Melissa Lowe, Michael Friesen, Matt Midwinter
+Project Description / Overview: Uploading 2 different databases to get the detailed information on books and a list of user ratings for those books.
+
+
+
+
+Datasets (be specific!): 
+We have found two data sets on Kaggle located below.
+Goodbooks-10k: https://www.kaggle.com/zygmunt/goodbooks-10k?select=books.csv
+bookcrossing: https://www.kaggle.com/ruchi798/bookcrossing-dataset
+
+
+
+
+Rough Breakdown of Tasks:
+* E: We will be extracting data sets to get more robust ratings for our good books data that we can later use to analyze the good books data set.
+* T: We will need to transform our data to make sure all columns are named the same and drop any columns that would potentially be used in our analysis. 
+* L: We will load 2-4 tables into our database with keys that reference one another. Our database will be using Postgres
+
+
 <h1> ETL_Challenge</h1>
 #This is where we will be posting instruction on how to generate our tables. 
 
