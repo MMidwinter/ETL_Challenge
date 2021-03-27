@@ -6,8 +6,11 @@ Project Description / Overview: Uploading 2 different databases to get the detai
 
 
 Datasets (be specific!): 
+
 We have found two data sets on Kaggle located below.
+
 Goodbooks-10k: https://www.kaggle.com/zygmunt/goodbooks-10k?select=books.csv
+
 bookcrossing: https://www.kaggle.com/ruchi798/bookcrossing-dataset
 
 
