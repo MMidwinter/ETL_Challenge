@@ -1,7 +1,7 @@
-<h1> ETL_Challenge
+<h1> ETL_Challenge</h1>
 #This is where we will be posting instruction on how to generate our tables. 
 
-<h1>Process notes
+<h1>Process notes</h1>
 
 Clone this repo to your desktop; it will contain the three necessary source csvs to produce the database.
 
