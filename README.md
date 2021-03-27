@@ -1,8 +1,8 @@
 <h1> Project Title: Books Books Books! </h1>
+
 Team Members: Melissa Lowe, Michael Friesen, Matt Midwinter
+
 Project Description / Overview: Uploading 2 different databases to get the detailed information on books and a list of user ratings for those books.
-
-
 
 
 Datasets (be specific!): 
@@ -21,9 +21,6 @@ Rough Breakdown of Tasks:
 * T: We will need to transform our data to make sure all columns are named the same and drop any columns that would potentially be used in our analysis. 
 * L: We will load 2-4 tables into our database with keys that reference one another. Our database will be using Postgres
 
-
-<h1> ETL_Challenge</h1>
-#This is where we will be posting instruction on how to generate our tables. 
 
 <h1>Process notes</h1>
 
