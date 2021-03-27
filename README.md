@@ -26,7 +26,7 @@ Rough Breakdown of Tasks:
 
 Clone this repo to your desktop; it will contain the three necessary source csvs to produce the database.
 
-Launch a jupyter notebook from the repo and open {FILE NAME}.
+Launch a jupyter notebook from the repo and open ETL_workbook.
 Notes on how csvs were cleaned and issues resolved in dataframes:
 * GoodBooks csv 
   * was not encoded in UTF-8 and had to be specified to be encoded in Latin1. 
